@@ -27,13 +27,21 @@ const questions = [
     },
     {
         name: 'test',
-        message: 'Test instructions" '
+        message: 'Test instructions: '
     },
     {
         name: 'license',
         message: 'Choose a license: ',
         type: 'list',
-        choices: ['Apache', 'Boost', 'BSD 2', 'BSD 3', 'CC 0', 'Eclipse', 'GNU GPL3', 'GNU AGPL3', 'GNU GPL2', 'MIT', 'MPL', 'Unlicense']
+        choices: ['No License', 'Apache', 'Boost', 'BSD 2', 'BSD 3', 'CC 0', 'Eclipse', 'GNU GPL3', 'GNU AGPL3', 'GNU GPL2', 'MIT', 'MPL', 'Unlicense']
+    },
+    {
+        name: 'github',
+        message: 'Enter your GitHub URL: '
+    },
+    {
+        name: 'email',
+        message: 'Enter your email address: '
     }
 ];
 

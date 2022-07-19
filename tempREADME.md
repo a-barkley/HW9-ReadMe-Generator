@@ -2,8 +2,6 @@ ${}
 
 # ${data.title}
 
-${}
-
 ## Description
 
 ${}
@@ -24,23 +22,23 @@ ${}
 
 ## Installation
 
-
+${}
 
 ## Usage
 
-
+${}
 
 ## License
 
-
+${}
 
 ## Contributing
 
-
+${}
 
 ## Tests
 
-
+${}
 
 ## Questions
 

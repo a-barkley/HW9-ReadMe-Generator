@@ -33,7 +33,7 @@ const questions = [
         name: 'license',
         message: 'Choose a license: ',
         type: 'list',
-        choices: ['No License', 'Apache', 'Boost', 'BSD 2', 'BSD 3', 'CC 0', 'Eclipse', 'GNU GPL3', 'GNU AGPL3', 'GNU GPL2', 'MIT', 'MPL', 'Unlicense']
+        choices: ['No License', 'Apache-2.0', 'BSD-3-Clause', 'MIT', 'MPL-2.0', 'EPL-2.0']
     },
     {
         name: 'github',
